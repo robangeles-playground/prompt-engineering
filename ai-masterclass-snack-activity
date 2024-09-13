@@ -1,0 +1,75 @@
+Goal: Design a packaged ready to eat snack. 
+
+ 
+
+Task 1: Your analyst has compiled some historical data on snacks. Upload the data to chatGPT and analyze it to identify new possible opportunities.  
+
+Example prompts:  
+
+[Upload the spreadsheet] Perform some basic exploratory data analysis. 
+
+Visualize the data. 
+
+What is the fastest-growing category? 
+
+I am looking to start a new snack; where is the biggest opportunity? 
+
+Search the web for snack trends in the US.  
+
+ 
+
+Task 2: After exploring the data and identifying an opportunity, have chatGPT co-create the snack. Come up with a name, a logo, and a sample package design. 
+
+Example prompts: 
+
+I want the snack to be in category XXXX. It should be [e.g., savory, healthy, etc.]. Can you suggest 10 possible names for this snack? 
+
+I like the name XXXX; generate a logo for this snack.  
+
+Try editing the logo by saying: make the logo more/less XXX. Change the colors to XXXX.  
+
+Generate a sample package design.  
+
+ 
+
+Task 3: Generate a recipe for the snack. 
+
+Example prompt: 
+
+We now want to make the snack. Suggest 5 possible recipes to use in a test kitchen to make this snack.  
+
+ 
+
+Task 4: Identify a customer segment that would be most likely to purchase the snack and a city to run a large product launch. 
+
+Example prompts: 
+
+Given the discussion so far, who would be the most ideal group for this snack?  
+
+Why would a person in this segment enjoy this product?  
+
+Go on the internet and find what are the top cities that would love our new snacks and would be perfect for a big product launch. 
+
+ 
+
+Task 5: Given the information, create a marketing campaign, including text, images, and ideas for a commercial.  
+
+Example prompts: 
+
+Given the segment and city, provide text to use to promote the snack.  
+
+Describe a commercial I could create to advertise this product.  
+
+Generate a mood board based on the description of the commercial that I could share with a design professional.  
+
+ 
+
+Task 6: Ask chatGPT to provide a document outline of the snack proposal, marketing efforts, and data analyzed.   
+
+Example prompts: 
+
+Create a PowerPoint or Word Document summarizing the information of the chat in an executive summary that I can present to my board / leadership team. 
+
+Summarize the findings of this chat and create an outline for a snack proposal pitching the launch of this new snack.  
+
+Create an elevator pitch for this snack. 
